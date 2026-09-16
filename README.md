@@ -1,4 +1,4 @@
-This project builds an integrated analytics pipeline covering eleven tasks — forecasting, risk classification, clustering, anomaly detection, geospatial analysis, and operational decision support — using thirteen months of Dublin Bikes data (7,416,360 timestamped observations across 115 stations).
+This project builds an integrated analytics pipeline covering eleven tasks forecasting, risk classification, clustering, anomaly detection, geospatial analysis, and operational decision support  using thirteen months of Dublin Bikes data (7,416,360 timestamped observations across 115 stations).
 
 Models Implemented
 
